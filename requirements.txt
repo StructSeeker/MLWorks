@@ -16,8 +16,8 @@ jupyter_core==5.7.2
 kiwisolver==1.4.8
 matplotlib==3.10.0
 matplotlib-inline==0.1.7
-# Editable install with no version control (MJCMLWorks==2020.0.0)
--e c:\users\structseeker\projects\mlworks
+# -e git+https://github.com/StructSeeker/MLWorks.git@805943cb4fbdf9581979673484464560bfcbfa07#egg=MJCMLWorks
+-e .
 nest-asyncio==1.6.0
 numpy==2.2.2
 packaging==24.2

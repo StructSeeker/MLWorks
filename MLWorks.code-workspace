@@ -4,7 +4,11 @@
 			"path": "."
 		}
 	],
-	"settings": {},
+	"settings": {
+		"zenMode.hideLineNumbers": false,
+		"notebook.lineNumbers": "on",
+		"search.showLineNumbers": true
+	},
 	"extensions": {
 		"recommendations": [
 			"donjayamanne.python-extension-pack",
